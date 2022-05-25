@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-import { useContext, useEffect, useState } from 'react';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import UserList from './component/UserList';
