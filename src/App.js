@@ -11,7 +11,6 @@ function App() {
     <UserContext>
     <div className="App">
      <UserList />    
-     <h1>Hello</h1>
      <ToastContainer />
     </div>
     </UserContext>
